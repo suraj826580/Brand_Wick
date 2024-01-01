@@ -133,7 +133,7 @@ const RegisterComp = () => {
                   <Input
                     {...register("password")}
                     type="password"
-                    placeholder="Enter your password"
+                    placeholder="Enter your password   "
                     borderColor="teal.500"
                     _focus={{ borderColor: "teal.600" }}
                     leftIcon={<FaLock color="teal.500" />}
